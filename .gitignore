@@ -15,5 +15,5 @@ __pycache__/
 .fseventsd
 
 # Ignore uploads
-upload_files/*
-!upload_files/.gitkeep
+src/upload_files/*
+!src/upload_files/.gitkeep
