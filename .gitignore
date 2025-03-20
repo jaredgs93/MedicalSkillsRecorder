@@ -13,3 +13,7 @@ __pycache__/
 .Trashes
 .AppleDouble
 .fseventsd
+
+# Ignore uploads
+upload_files/*
+!upload_files/.gitkeep
