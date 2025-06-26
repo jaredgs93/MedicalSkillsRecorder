@@ -92,9 +92,23 @@ This repository includes anonymized evaluation results:
 
 ---
 
-## 📌 Citation
-If you use this tool, please reference this repository appropriately.
 
-📁 **Repository:** MedicalSkillsRecorder  
-✅ **Last updated:** March 2025
+## 📖 Citation
+
+If you use this tool, please cite it as follows:
+
+Guerrero-Sosa, J. D.T., Romero, F. P., Menéndez-Domínguez, V. H., Serrano-Guerrero, J., Montoro-Montarroso, A., & Olivas, J. A. (2025). *MedicalSkillsRecorder* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15744771
+
+Or use the BibTeX entry:
+
+```bibtex
+@misc{guerrero2025medicalskillsrecorder,
+  author       = {Guerrero-Sosa, Jared D.T. and Romero, Francisco P. and Menéndez-Domínguez, Víctor H. and Serrano-Guerrero, Jesús and Montoro-Montarroso, Andrés and Olivas, José A.},
+  title        = {{MedicalSkillsRecorder} (v1.0.0)},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15744771},
+  url          = {https://doi.org/10.5281/zenodo.15744771}
+}
+
 
